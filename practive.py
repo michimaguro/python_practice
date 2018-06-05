@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jun  2 17:50:20 2018
@@ -21,7 +21,7 @@ del(a[3])         #指定した配列番号の値を削除
 b = [44]
 a = a + b
 print(str(a))
-
+lllllllllllllllllllllllllllllllllllll
 
 
 points = []   #空の配列を用意しておく
