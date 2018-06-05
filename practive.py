@@ -15,13 +15,12 @@ ave = total / len(list)
 print("平均"+str(ave))
     
 
-
 a = [11,22,33,44,55]
 del(a[3])         #指定した配列番号の値を削除
 b = [44]
 a = a + b
 print(str(a))
-lllllllllllllllllllllllllllllllllllll
+
 
 
 points = []   #空の配列を用意しておく
